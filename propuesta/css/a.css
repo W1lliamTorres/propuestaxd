@@ -1,0 +1,25 @@
+body {
+    background-color: pink;
+    text-align: center;
+    margin-top: 180px;
+}
+
+
+
+.img {
+    text-align: end;
+    height: 250px;
+    width: 300px;
+}
+
+.boton {
+    height: 30px;
+    width: 90;
+    text-align: end;
+    margin-top: 10px;
+    background-color: whitesmoke;
+}
+
+.text {
+    font-family: sans-serif;
+}
